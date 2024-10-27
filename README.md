@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranaysinganalli
 - 👀 I’m interested in Math, C++, literature and music
-- 🌱 I’m currently learning algorithms, and machine learning model
+- 🌱 I’m currently learning programming algorithms, and machine learning 
 - 📫 Email : pranay.singanalli@gmail.com
 - 😄 Pronouns: he/him
 <!---
